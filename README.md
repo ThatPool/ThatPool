@@ -1,7 +1,7 @@
 # I code 💻
 
 ```cpp
-if (wantCheasyIntro) return;
+if (wantCheesyIntro) return;
 Welcome();
 ```
 
